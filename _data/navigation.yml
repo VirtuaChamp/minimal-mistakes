@@ -1,10 +1,10 @@
 # main links
 main:
   - title: "Home"
-    url: /minimal-mistakes/
+    url: /
   - title: "News"
-    url: /previews/
+    url: /posts/
   - title: "Tests"
-    url: /tests/
+    url: /categorie/tests
   - title: "About"
     url: /about/
